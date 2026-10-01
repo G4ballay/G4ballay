@@ -7,10 +7,10 @@ Apasionado por la programación y orientado al trabajo práctico: disfruto senta
 
 ### 💻 Stack Tecnológico
 
-**Lenguajes:** JavaScript (ES6+), TypeScript, Java, C  
+**Lenguajes:** JavaScript, Java, C  
 **Frontend:** React, Next.js, Material UI, Tailwind CSS  
 **Backend:** Node.js, Spring Boot, Express  
-**Bases de Datos & Herramientas:** PostgreSQL, MongoDB, Git, Docker, Linux  
+**Bases de Datos & Herramientas:** PostgreSQL, MongoDB, Git, Docker, SQL  
 
 ---
 
@@ -25,4 +25,4 @@ Apasionado por la programación y orientado al trabajo práctico: disfruto senta
 
 - 💼 **LinkedIn:** [linkedin.com/in/gaballay](https://linkedin.com/in/gaballay)
 - ✉️ **Email:** gonzaloAball4y@gmail.com
-- 🌐 **Portfolio:** MiPortfolio.com(https://aballay.vercel.app/)
+- 🌐 **Portfolio:** [MiPortfolio.com](https://aballay.vercel.app/)
