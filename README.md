@@ -2,7 +2,7 @@
 
 **Estudiante de Ingeniería**
 
-Apasionado por la programación y orientado al trabajo práctico: disfruto sentarme a tirar código, resolver problemas y ver el progreso constante en lo que construyo. Actualmente interesado en aprender y profundizar en áreas como CI/CD y Seguridad. Valoro mucho el feedback genuino y las críticas constructivas; creo que la mejor forma de crecer es aprendiendo de cada error y corrección.Me adapto muy bien al trabajo bajo presión y me siento cómodo trabajando en equipo, coordinando la división de tareas y roles para avanzar de forma organizada.
+Estudiante enfocado en el aprendizaje práctico y la resolución de problemas mediante código. Interesado en profundizar en CI/CD y Seguridad. Destaco por el trabajo en equipo, la adaptación bajo presión y el aprovechamiento del feedback para crecer.
 ---
 
 ### 💻 Stack Tecnológico
