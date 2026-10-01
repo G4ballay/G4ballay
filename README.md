@@ -16,7 +16,7 @@ Apasionado por la programación y orientado al trabajo práctico: disfruto senta
 
 ### 🚀 Proyectos Destacados
 
-- **[Nombre del Proyecto 1](link):** Breve descripción de 1 línea centrada en el valor o el problema que resuelve. *(Tech stack usado)*
+- **Sweet Medical (https://github.com/G4ballay/sweet_medical):** Aplicación web de gestion de turnos medicos *MERN*
 
 
 ---
@@ -25,4 +25,4 @@ Apasionado por la programación y orientado al trabajo práctico: disfruto senta
 
 - 💼 **LinkedIn:** [linkedin.com/in/gaballay](https://linkedin.com/in/gaballay)
 - ✉️ **Email:** gonzaloAball4y@gmail.com
-- 🌐 **Portfolio:** [tu-portfolio.com](https://aballay.vercel.app/)
+- 🌐 **Portfolio:** MiPortfolio.com(https://aballay.vercel.app/)
