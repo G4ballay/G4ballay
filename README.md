@@ -1,16 +1,28 @@
-## Hi there 👋
+# ¡Hola! Soy Gonzalo Aballay 👋
 
-<!--
-**G4ballay/G4ballay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de Ingeniería**
 
-Here are some ideas to get you started:
+Apasionado por la programación y orientado al trabajo práctico: disfruto sentarme a tirar código, resolver problemas y ver el progreso constante en lo que construyo. Actualmente interesado en aprender y profundizar en áreas como CI/CD y Seguridad. Valoro mucho el feedback genuino y las críticas constructivas; creo que la mejor forma de crecer es aprendiendo de cada error y corrección.Me adapto muy bien al trabajo bajo presión y me siento cómodo trabajando en equipo, coordinando la división de tareas y roles para avanzar de forma organizada.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Stack Tecnológico
+
+**Lenguajes:** JavaScript (ES6+), TypeScript, Java, C  
+**Frontend:** React, Next.js, Material UI, Tailwind CSS  
+**Backend:** Node.js, Spring Boot, Express  
+**Bases de Datos & Herramientas:** PostgreSQL, MongoDB, Git, Docker, Linux  
+
+---
+
+### 🚀 Proyectos Destacados
+
+- **[Nombre del Proyecto 1](link):** Breve descripción de 1 línea centrada en el valor o el problema que resuelve. *(Tech stack usado)*
+
+
+---
+
+### 📫 Contacto & Redes
+
+- 💼 **LinkedIn:** [linkedin.com/in/gaballay](https://linkedin.com/in/gaballay)
+- ✉️ **Email:** gonzaloAball4y@gmail.com
+- 🌐 **Portfolio:** [tu-portfolio.com](https://aballay.vercel.app/)
