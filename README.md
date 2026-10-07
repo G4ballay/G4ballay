@@ -17,7 +17,7 @@ Estudiante enfocado en el aprendizaje práctico y la resolución de problemas me
 ### 🚀 Proyectos Destacados
 
 - **Sweet Medical (https://github.com/G4ballay/sweet_medical):** Aplicación web de gestion de turnos medicos *MERN*
-- **API Gateway & Billing Service (https://github.com/G4ballay/API_Gateway_Billing):** Plataforma donde desarrolladores registrados compran créditos y consumen un servicio a través de una API Key. *MERN*
+- **API Gateway & Billing Service (https://github.com/G4ballay/API_Gateway_Billing):** Plataforma donde desarrolladores registrados compran créditos y consumen un servicio a través de una API Key. *MERN* (EN_PROCESO)
 
 
 ---
