@@ -7,7 +7,7 @@ Estudiante enfocado en el aprendizaje práctico y la resolución de problemas me
 
 ### 💻 Stack Tecnológico
 
-**Lenguajes:** JavaScript, Java, C  
+**Lenguajes:** JavaScript, Java, C/C++  
 **Frontend:** React, JavaScript, Tailwind CSS  
 **Backend:** Spring Boot, Express.js
 **Bases de Datos & Herramientas:** MongoDB, Git, Docker, SQL  
